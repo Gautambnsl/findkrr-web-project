@@ -1,0 +1,30 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.topbar{
+    display: block;
+    height: 55px;
+    background: #113f85
+}
+
+#text1{
+    color: #FFA500 ;
+}
+#text2{
+    color: aliceblue;
+}
+.nav ul{
+list-style: none;
+float: right;
+}
+
+navbar{
+    position: relative;
+    left : 900px;
+}
+navbar t1{
+    padding: 2px;
+    padding-top: 30px;
+}
